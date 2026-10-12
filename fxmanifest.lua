@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'AICORE_Vehicles'
-repository 'https://github.com/0error-scripts/aicore_vehicles'
+repository 'https://github.com/aicore-fivem/aicore_vehicles'
 version '1.4.2'
 
 server_scripts {

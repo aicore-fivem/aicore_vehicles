@@ -1,5 +1,5 @@
 assert(lib.checkDependency('aicore', '1.2.0', true))
-lib.versionCheck('0error-scripts/aicore_vehicles')
+lib.versionCheck('aicore-fivem/aicore_vehicles')
 
 ---@class ErrorResult
 ---@field code string
